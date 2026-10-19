@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:24:46.671Z",
+  "generated_at": "2026-10-19T21:26:12.875Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -39,6 +39,19 @@
       "last_pushed_at": "2026-10-19T21:24:46.450Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-10-19T21:26:12.677Z",
+      "last_pushed_at": "2026-10-19T21:26:12.677Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
